@@ -2,7 +2,7 @@
 <h3 align="center">an IT student aspiring to become a front-end web developer</h3>
 
 <img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="500" align="right" alt="Coding">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vee309bajracharya&label=Profile%20views&color=0e75b6&style=flat" alt="vee309bajracharya" /> </p>
+
 
 - 🔭 I’m currently working on [Readify Library Management System](https://vee309bajracharya.github.io/Readify-Library-Management-System/)
 
