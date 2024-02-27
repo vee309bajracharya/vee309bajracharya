@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Veerin Bajracharya</h1>
 <h3 align="center">an IT student aspiring to become a front-end web developer</h3>
 
-
+<img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="500" align="right" alt="Coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vee309bajracharya&label=Profile%20views&color=0e75b6&style=flat" alt="vee309bajracharya" /> </p>
 
 - 🔭 I’m currently working on [Readify Library Management System](https://vee309bajracharya.github.io/Readify-Library-Management-System/)
@@ -13,13 +13,13 @@
 - 📫 How to reach me **verrinshakya309@gmail.com**
 
 - ⚡ Fun fact **Outside the world of coding, I adore playing Carrom board**
-<img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="300" align="right" alt="Coding">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/veerinbajra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="veerinbajra" height="30" width="40" /></a>
+
 <a href="https://fb.com/veerin bajracharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="veerin bajracharya" height="30" width="40" /></a>
 <a href="https://instagram.com/_veetallica_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_veetallica_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/veerinbajracharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="veerinbajracharya" height="30" width="40" /></a>
+<a href="https://codepen.io/veerinbajra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="veerinbajra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
