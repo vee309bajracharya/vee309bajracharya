@@ -13,7 +13,7 @@
 - 📫 How to reach me **verrinshakya309@gmail.com**
 
 - ⚡ Fun fact **Outside the world of coding, I adore playing Carrom board**
-
+<img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="300" align="right" alt="Coding">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/veerinbajra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="veerinbajra" height="30" width="40" /></a>
