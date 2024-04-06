@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML,CSS**
 
-- 📫 How to reach me **verrinshakya309@gmail.com**
+- 📫 How to reach me **veerinbajracharya08@gmail.com**
 
 - ⚡ Fun fact **Outside the world of coding, I adore playing Carrom board**
 
