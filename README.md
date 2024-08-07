@@ -3,12 +3,9 @@
 
 <img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="500" align="right" alt="Coding">
 
+- 🌱 I’m currently practicing **ReactJS**
 
-- 🔭 I’m currently working on [Readify Library Management System](https://vee309bajracharya.github.io/Readify-Library-Management-System/pages/index.html)
-
-- 🌱 I’m currently learning **JavaScript and ReactJS**
-
-- 💬 Ask me about **HTML,CSS**
+- 💬 Ask me about **Front-end**
 
 - 📫 How to reach me **veerinbajracharya08@gmail.com**
 
