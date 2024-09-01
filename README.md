@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Front-end**
 
-- 📫 How to reach me **veerinbajracharya08@gmail.com**
-
 - ⚡ Fun fact: Outside the world of coding, I'm fond of collecting **unique items** and **accessories**
 
 
