@@ -3,7 +3,7 @@
 
 # About me:
 
-- 🌱 I’m currently practicing **ReactJS** and working on **[Framework Practice Repo](https://vee309bajracharya.github.io/Frameworks_practice/front-end/src/views/index.html)**
+- 🌱 I’m currently practicing **ReactJS** and working on **[Framework Practice Repo](https://vee309bajracharya.github.io/Frameworks_practice/front-end/public/views/index.html)**
 
 - 💬 Ask me about **Front-end**
 
