@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Veerin Bajracharya</h1>
+<h1 align="center">Myself, Veerin Bajracharya</h1> 
 <h3 align="center">an IT student aspiring to become a front-end web developer</h3>
 
 # About me
@@ -14,7 +14,7 @@
 
 
 # Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__veerin__) [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-F2EAE1?style=for-the-badge&logo=Frontend-Mentor&logoColor=black)](https://www.frontendmentor.io/profile/vee309bajracharya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/veerin-bajracharya) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/veerinbajra) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__veerin__) [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-F2EAE1?style=for-the-badge&logo=Frontend-Mentor&logoColor=black)](https://www.frontendmentor.io/profile/vee309bajracharya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veerin-bajracharya) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/veerinbajra) 
 
 
 # 💻 Tech Stack:
