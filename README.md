@@ -11,7 +11,7 @@
         <h3>An IT student aspiring to become a Full Stack Web Developer</h3>
         <p>
           <a href="https://www.linkedin.com/in/veerin-bajracharya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-          <a href="https://www.instagram.com/__veerin__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+          <a href="https://www.instagram.com/___veerin___"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
           <a href="https://codepen.io/veerinbajra"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></a>
           <a href="https://www.frontendmentor.io/profile/vee309bajracharya"><img src="https://img.shields.io/badge/Frontend%20Mentor-F2EAE1?style=for-the-badge&logo=Frontend-Mentor&logoColor=black" alt="Frontend Mentor"></a>
         </p>
