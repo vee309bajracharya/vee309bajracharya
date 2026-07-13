@@ -22,12 +22,12 @@
 
 ---
 
-### 📖 About Me
-- ⚡ **Fun fact:** Outside the world of coding, I'm fond of collecting **unique items** and **accessories**.
+### About Me
+- **Fun fact:** Outside the world of coding, I'm fond of collecting **unique items** and **accessories**.
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 | **Categories** | **Tools & Technologies** |
 | :--- | :--- |
@@ -40,19 +40,19 @@
 
 ---
 
-###
+### Git Stats & Trophies
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=vee309bajracharya&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/vee309bajracharya/vee309bajracharya/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
+### Contribution Arcade
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vee309bajracharya/vee309bajracharya/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vee309bajracharya/vee309bajracharya/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vee309bajracharya/vee309bajracharya/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
 ###
