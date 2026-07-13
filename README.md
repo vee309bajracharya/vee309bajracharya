@@ -40,19 +40,21 @@
 
 ---
 
-### 📊 GitHub Stats:
-<div>
-  
-  ![](https://github-readme-stats.vercel.app/api?username=vee309bajracharya&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+###
 
-  ![](https://nirzak-streak-stats.vercel.app/?user=vee309bajracharya&theme=merko&hide_border=false)<br/>
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vee309bajracharya&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+###
 
-### 🏆 GitHub Trophies
-  ![](https://github-profile-trophy.vercel.app/?username=vee309bajracharya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-#### 🔝 Top Contributed Repo
-  ![](https://github-contributor-stats.vercel.app/api?username=vee309bajracharya&limit=5&theme=radical&combine_all_yearly_contributions=true)
+###
 
 </div>
